@@ -1,0 +1,8 @@
+{
+  "_comment": "Structure",
+  "CURLOPT_WHATEVER": "value",
+
+  "_comment": "Example",
+  "CURLOPT_RETURNTRANSFER": true,
+  "CURLOPT_HEADER": false
+}

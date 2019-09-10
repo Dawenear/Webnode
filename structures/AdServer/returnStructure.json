@@ -1,0 +1,13 @@
+{
+  "_comment": "Structure",
+  "DBColumnName": {
+    "name": "Column name in response",
+    "format": "Column format"
+  },
+
+  "_comment": "Example",
+  "Date": {
+    "name": "last_updated",
+    "format": "YY/mm/dd h:i:s"
+  }
+}
