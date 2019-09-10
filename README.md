@@ -1,8 +1,8 @@
 ### Program
-Program is in `app/` and `core/`
+Program is in `app/` and `core/` folders
 
 ### Examples
-Examples of SQL or data structure is stored in `structures/`
+Examples of SQL or data structure are stored in `structures/` folder
 
 ### DB Dump
-DB dump is stored in `dump/`
+DB dump is stored in `dump/` folder
